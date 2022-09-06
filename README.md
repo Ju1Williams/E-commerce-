@@ -4,7 +4,7 @@
 ## Table of content
 - [Description](#description)
 - [User Story](#user-story)
-- [Pictures](#pictures)
+
 Expand
 1 KB
 ﻿
@@ -13,7 +13,7 @@ Expand
 ## Table of content
 - [Description](#description)
 - [User Story](#user-story)
-- [Pictures](#pictures)
+
 - [Contribution](#contribution)
 - [Contact](#contact)
 
