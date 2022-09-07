@@ -8,7 +8,7 @@
 Expand
 1 KB
 ﻿
-# Code Quiz
+
 
 ## Table of content
 - [Description](#description)
