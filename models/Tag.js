@@ -7,24 +7,14 @@ class Tag extends Model {}
 Tag.init(
   {
     // define columns
-    tag_name: ''
+   id : {
+    type:
+   },
+   tag_name: {
+    
+   }
   },
-  {
-    // define columns
-    tag_name: ''
-  },
-  {
-    // define columns
-    tag_name: ''
-  },
-  {
-    // define columns
-    tag_name: ''
-  },
-  {
-    // define columns
-    tag_name: ''
-  },
+ 
   {
     sequelize,
     timestamps: false,
